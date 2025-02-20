@@ -1,0 +1,3 @@
+[deploy]
+allowed_http_methods = ["GET"]
+verify_jwt = true
